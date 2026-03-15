@@ -70,3 +70,5 @@ for (let i = 0; i < myFavoriteFoods.length; i++) {
 // Problem 10: Add a new favorite food
 myFavoriteFoods.push("ice cream");
 console.log("Updated Favorite Foods:", myFavoriteFoods);
+
+console.log("Taste Tracker Complete");
